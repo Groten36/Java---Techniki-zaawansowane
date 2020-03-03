@@ -1,4 +1,4 @@
-public class IntElement implements IElement<Integer> {
+public class IntElement implements IElement {
     String name;
     int value;
     @Override
@@ -7,7 +7,12 @@ public class IntElement implements IElement<Integer> {
     }
 
     @Override
-    public Integer getValue() {
+    public float getValue() {
         return this.value;
+    }
+
+    public IntElement(String name,int value){
+        this.name=name;
+        this.value=value;
     }
 }

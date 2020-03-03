@@ -1,5 +1,5 @@
 import java.util.List;
 
 public abstract class AbstractFloatSorter extends AbstractIntSorter{
-    List<IElement> solve(List<IElement> list);
+     abstract List<IElement> solve1(List<IElement> list);
 }

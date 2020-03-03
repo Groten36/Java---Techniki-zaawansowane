@@ -1,4 +1,4 @@
-public interface IElement<T> {
+public interface IElement {
     String getName();
-    T getValue();
+    float getValue();
 }

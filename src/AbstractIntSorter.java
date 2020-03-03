@@ -18,5 +18,5 @@ public abstract class AbstractIntSorter {
         return description;
     }
 
-    List<IntElement> solve(List<IntElement> list){return null;}
+    abstract List<IntElement> solve(List<IntElement> list);
 }

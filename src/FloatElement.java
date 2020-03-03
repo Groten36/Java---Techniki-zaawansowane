@@ -1,4 +1,4 @@
-public class FloatElement implements IElement<Float> {
+public class FloatElement implements IElement {
     String name;
     float value;
     @Override
@@ -7,7 +7,7 @@ public class FloatElement implements IElement<Float> {
     }
 
     @Override
-    public Float getValue() {
+    public float getValue() {
         return this.value;
     }
 }
