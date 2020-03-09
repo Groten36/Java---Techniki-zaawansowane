@@ -1,6 +1,17 @@
+/**
+ * Class IntElement implementing
+ * @see IElement
+ * @author Magda Ciężka
+ */
 public class IntElement implements IElement {
+    /**
+     * Name of element
+     */
     String name;
-    int value;
+    /**
+     * Value of element
+     */
+    public int value;
     @Override
     public String getName() {
         return this.name;
@@ -11,6 +22,11 @@ public class IntElement implements IElement {
         return this.value;
     }
 
+    /**
+     * Constructor
+     * @param name - name of element
+     * @param value - value of element
+     */
     public IntElement(String name,int value){
         this.name=name;
         this.value=value;

@@ -2,15 +2,91 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c86151e3-d953-48e6-a075-59c46a022922" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CountingSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractFloatSorter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractIntSorter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CountingSort.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FloatElement.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IElement.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InsertionSort.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntElement.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MergeSort.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allclasses-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allclasses.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allpackages-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/constant-values.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deprecated-list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/element-list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exportToHTML/AbstractFloatSorter.java.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exportToHTML/AbstractIntSorter.java.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exportToHTML/CountingSort.java.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exportToHTML/FloatElement.java.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exportToHTML/IElement.java.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exportToHTML/InsertionSort.java.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exportToHTML/IntElement.java.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exportToHTML/Main.java.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exportToHTML/MergeSort.java.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exportToHTML/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/help-doc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index-all.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jquery/external/jquery/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jquery/images/ui-bg_glass_55_fbf9ee_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jquery/images/ui-bg_glass_65_dadada_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jquery/images/ui-bg_glass_75_dadada_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jquery/images/ui-bg_glass_75_e6e6e6_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jquery/images/ui-bg_glass_95_fef1ec_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jquery/images/ui-bg_highlight-soft_75_cccccc_1x100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jquery/images/ui-icons_222222_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jquery/images/ui-icons_2e83ff_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jquery/images/ui-icons_454545_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jquery/images/ui-icons_888888_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jquery/images/ui-icons_cd0a0a_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jquery/jquery-3.3.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jquery/jquery-migrate-3.0.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jquery/jquery-ui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jquery/jquery-ui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jquery/jquery-ui.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jquery/jquery-ui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jquery/jquery-ui.structure.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jquery/jquery-ui.structure.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jquery/jszip-utils/dist/jszip-utils-ie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jquery/jszip-utils/dist/jszip-utils-ie.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jquery/jszip-utils/dist/jszip-utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jquery/jszip-utils/dist/jszip-utils.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jquery/jszip/dist/jszip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jquery/jszip/dist/jszip.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/member-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/member-search-index.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/overview-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-search-index.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/glass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PigeonholeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/type-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/type-search-index.zip" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-laboratorium/AbstractFloatSorter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-laboratorium/AbstractFloatSorter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-laboratorium/AbstractIntSorter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-laboratorium/AbstractIntSorter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-laboratorium/CountingSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-laboratorium/CountingSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-laboratorium/FloatElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-laboratorium/FloatElement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-laboratorium/IntElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-laboratorium/IntElement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-laboratorium/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-laboratorium/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/AbstractFloatSorter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AbstractFloatSorter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/AbstractIntSorter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AbstractIntSorter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CountingSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CountingSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/FloatElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FloatElement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/IElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IElement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/IntElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IntElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +95,10 @@
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="printScope" value="4" />
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/exportToHTML" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -32,12 +112,16 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1YZOAuiSpyFy2RdWoMaeK5qa8CS" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -76,17 +160,66 @@
       <workItem from="1583144940530" duration="760000" />
       <workItem from="1583146517121" duration="2178000" />
       <workItem from="1583182279166" duration="1206000" />
-      <workItem from="1583243358138" duration="5229000" />
+      <workItem from="1583243358138" duration="5366000" />
+      <workItem from="1583359443108" duration="1476000" />
+      <workItem from="1583399974854" duration="113000" />
+      <workItem from="1583445126594" duration="1220000" />
+      <workItem from="1583486922798" duration="600000" />
+      <workItem from="1583592700020" duration="1259000" />
+      <workItem from="1583608511895" duration="3499000" />
+      <workItem from="1583621788455" duration="625000" />
+      <workItem from="1583664486988" duration="2032000" />
+      <workItem from="1583678171954" duration="755000" />
+      <workItem from="1583703569776" duration="3053000" />
+      <workItem from="1583712758967" duration="2456000" />
+      <workItem from="1583738686460" duration="4739000" />
+      <workItem from="1583749448802" duration="364000" />
+      <workItem from="1583749887335" duration="2114000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1583243358201">
+    <state x="729" y="390" width="518" height="325" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1583743134395">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1583243358201" />
+    <state x="729" y="390" width="518" height="325" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1583743134395" />
+    <state x="801" y="265" width="374" height="575" key="#com.intellij.ide.util.MemberChooser" timestamp="1583749783945">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="801" y="265" width="374" height="575" key="#com.intellij.ide.util.MemberChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1583749783945" />
+    <state width="1807" height="226" key="GridCell.Tab.0.bottom" timestamp="1583752149092">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="226" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1583752149092" />
+    <state width="1807" height="226" key="GridCell.Tab.0.center" timestamp="1583752149092">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="226" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1583752149092" />
+    <state width="1807" height="226" key="GridCell.Tab.0.left" timestamp="1583752149091">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="226" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1583752149091" />
+    <state width="1807" height="226" key="GridCell.Tab.0.right" timestamp="1583752149092">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="226" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1583752149092" />
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1583749894740">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1583749894740" />
+    <state x="302" y="153" width="1372" height="799" key="new project wizard" timestamp="1583400095512">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="302" y="153" width="1372" height="799" key="new project wizard/67.27.1853.1053@67.27.1853.1053" timestamp="1583400095512" />
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1583741664217">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1583741664217" />
   </component>
 </project>
