@@ -2,13 +2,9 @@
  * Class FloatElement implementing interface @see IElement
  */
 public class FloatElement implements IElement {
-    /**
-     * Name of element
-     */
+    /** Name of element*/
     String name;
-    /**
-     * Value of element
-     */
+    /** Value of element*/
     float value;
 
     /**
@@ -21,11 +17,19 @@ public class FloatElement implements IElement {
         this.value=value;
     }
 
+    /**
+     * Return name of element
+     * @return name name of element
+     */
     @Override
     public String getName() {
         return this.name;
     }
 
+    /**
+     * Return value of element
+     * @return value value of element
+     */
     @Override
     public float getValue() {
         return this.value;

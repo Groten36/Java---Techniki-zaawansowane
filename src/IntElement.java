@@ -4,19 +4,24 @@
  * @author Magda Ciężka
  */
 public class IntElement implements IElement {
-    /**
-     * Name of element
-     */
+    /** Name of element*/
     String name;
-    /**
-     * Value of element
-     */
+    /** Value of element*/
     public int value;
+
+    /**
+     * Return name of element
+     * @return name
+     */
     @Override
     public String getName() {
         return this.name;
     }
 
+    /**
+     * Return value of element
+     * @return value
+     */
     @Override
     public float getValue() {
         return this.value;

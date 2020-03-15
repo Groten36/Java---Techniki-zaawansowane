@@ -6,14 +6,18 @@ import java.util.List;
  * @author Magda Ciężka 235083
  */
 public class InsertionSort extends AbstractFloatSorter{
-    /**
-     * Constructor
-     */
+    /** Constructor*/
     public InsertionSort(){
         this.description="Insertion Sort";
         this.stable=true;
         this.inSitu=true;
     }
+
+    /**
+     * Sorts list using insertion sort algorithm
+     * @param list - list to sort
+     * @return sorted list
+     */
     @Override
     List<IElement> solve1(List<IElement> list) {
         IElement e;

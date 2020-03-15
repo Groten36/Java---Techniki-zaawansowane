@@ -1,20 +1,14 @@
 import java.util.List;
 
 /**
- * Abstract class AbstractClassSorter
+ * Abstract class AbstractIntSorter
  */
 public abstract class AbstractIntSorter {
-    /**
-     * Name of algorithm
-     */
+    /** Name of algorithm*/
     String description;
-    /**
-     *
-     */
+    /**Stability of algorithm*/
     boolean stable;
-    /**
-     *
-     */
+    /**if algorithm is in-situ*/
     boolean inSitu;
 
     /**

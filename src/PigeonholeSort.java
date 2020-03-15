@@ -10,14 +10,18 @@ import java.util.List;
  * @author Magda Ciężka 235083
  */
 public class PigeonholeSort extends AbstractIntSorter{
-    /**
-     * Constructor
-     */
+    /**Constructor*/
     public PigeonholeSort(){
         this.description="Pigeonhole Sort";
         this.stable=false;
         this.inSitu=false;
     }
+
+    /**
+     * Sorts list using pigeonhole algorithm
+     * @param list list to sort
+     * @return sorted list
+     */
     @Override
     public List<IntElement> solve(List<IntElement> list) {
         int min= (int) list.get(0).getValue();

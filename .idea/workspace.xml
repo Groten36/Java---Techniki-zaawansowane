@@ -2,91 +2,91 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c86151e3-d953-48e6-a075-59c46a022922" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/AbstractFloatSorter.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AbstractIntSorter.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CountingSort.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FloatElement.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IElement.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InsertionSort.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IntElement.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MergeSort.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allclasses-index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allclasses.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allpackages-index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/constant-values.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deprecated-list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/element-list" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exportToHTML/AbstractFloatSorter.java.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exportToHTML/AbstractIntSorter.java.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exportToHTML/CountingSort.java.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exportToHTML/FloatElement.java.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exportToHTML/IElement.java.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exportToHTML/InsertionSort.java.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exportToHTML/IntElement.java.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exportToHTML/Main.java.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exportToHTML/MergeSort.java.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exportToHTML/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/help-doc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index-all.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jquery/external/jquery/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jquery/images/ui-bg_glass_55_fbf9ee_1x400.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jquery/images/ui-bg_glass_65_dadada_1x400.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jquery/images/ui-bg_glass_75_dadada_1x400.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jquery/images/ui-bg_glass_75_e6e6e6_1x400.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jquery/images/ui-bg_glass_95_fef1ec_1x400.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jquery/images/ui-bg_highlight-soft_75_cccccc_1x100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jquery/images/ui-icons_222222_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jquery/images/ui-icons_2e83ff_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jquery/images/ui-icons_454545_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jquery/images/ui-icons_888888_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jquery/images/ui-icons_cd0a0a_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jquery/jquery-3.3.1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jquery/jquery-migrate-3.0.1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jquery/jquery-ui.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jquery/jquery-ui.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jquery/jquery-ui.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jquery/jquery-ui.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jquery/jquery-ui.structure.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jquery/jquery-ui.structure.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jquery/jszip-utils/dist/jszip-utils-ie.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jquery/jszip-utils/dist/jszip-utils-ie.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jquery/jszip-utils/dist/jszip-utils.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jquery/jszip-utils/dist/jszip-utils.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jquery/jszip/dist/jszip.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jquery/jszip/dist/jszip.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/member-search-index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/member-search-index.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/overview-tree.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-search-index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-search-index.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-summary.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-tree.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/glass.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/search.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InsertionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PigeonholeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stylesheet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/type-search-index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/type-search-index.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractFloatSorter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractFloatSorter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractIntSorter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractIntSorter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FloatElement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FloatElement.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IElement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IElement.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InsertionSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InsertionSort.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IntElement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IntElement.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MergeSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MergeSort.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PigeonholeSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PigeonholeSort.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/allclasses-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/allclasses.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/allpackages-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constant-values.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/deprecated-list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/element-list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/help-doc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index-all.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jquery/external/jquery/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jquery/images/ui-bg_glass_55_fbf9ee_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jquery/images/ui-bg_glass_65_dadada_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jquery/images/ui-bg_glass_75_dadada_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jquery/images/ui-bg_glass_75_e6e6e6_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jquery/images/ui-bg_glass_95_fef1ec_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jquery/images/ui-bg_highlight-soft_75_cccccc_1x100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jquery/images/ui-icons_222222_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jquery/images/ui-icons_2e83ff_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jquery/images/ui-icons_454545_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jquery/images/ui-icons_888888_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jquery/images/ui-icons_cd0a0a_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jquery/jquery-3.3.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jquery/jquery-migrate-3.0.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jquery/jquery-ui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jquery/jquery-ui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jquery/jquery-ui.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jquery/jquery-ui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jquery/jquery-ui.structure.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jquery/jquery-ui.structure.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jquery/jszip-utils/dist/jszip-utils-ie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jquery/jszip-utils/dist/jszip-utils-ie.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jquery/jszip-utils/dist/jszip-utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jquery/jszip-utils/dist/jszip-utils.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jquery/jszip/dist/jszip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jquery/jszip/dist/jszip.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/member-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/member-search-index.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/overview-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/package-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/package-search-index.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/glass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/type-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/type-search-index.zip" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-laboratorium/AbstractFloatSorter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-laboratorium/AbstractFloatSorter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-laboratorium/AbstractIntSorter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-laboratorium/AbstractIntSorter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-laboratorium/CountingSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-laboratorium/CountingSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-laboratorium/FloatElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-laboratorium/FloatElement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-laboratorium/IntElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-laboratorium/IntElement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-laboratorium/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-laboratorium/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AbstractFloatSorter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AbstractFloatSorter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exportToHTML/AbstractFloatSorter.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exportToHTML/AbstractIntSorter.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exportToHTML/CountingSort.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exportToHTML/FloatElement.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exportToHTML/IElement.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exportToHTML/InsertionSort.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exportToHTML/IntElement.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exportToHTML/Main.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exportToHTML/MergeSort.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exportToHTML/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/AbstractIntSorter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AbstractIntSorter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CountingSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CountingSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CountingSort.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/FloatElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FloatElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InsertionSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/IntElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IntElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PigeonholeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PigeonholeSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -174,7 +174,8 @@
       <workItem from="1583712758967" duration="2456000" />
       <workItem from="1583738686460" duration="4739000" />
       <workItem from="1583749448802" duration="364000" />
-      <workItem from="1583749887335" duration="2114000" />
+      <workItem from="1583749887335" duration="3955000" />
+      <workItem from="1584313207743" duration="2292000" />
     </task>
     <servers />
   </component>
@@ -193,30 +194,30 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="801" y="265" width="374" height="575" key="#com.intellij.ide.util.MemberChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1583749783945" />
-    <state width="1807" height="226" key="GridCell.Tab.0.bottom" timestamp="1583752149092">
+    <state width="1807" height="123" key="GridCell.Tab.0.bottom" timestamp="1583753844925">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="226" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1583752149092" />
-    <state width="1807" height="226" key="GridCell.Tab.0.center" timestamp="1583752149092">
+    <state width="1807" height="123" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1583753844925" />
+    <state width="1807" height="123" key="GridCell.Tab.0.center" timestamp="1583753844924">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="226" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1583752149092" />
-    <state width="1807" height="226" key="GridCell.Tab.0.left" timestamp="1583752149091">
+    <state width="1807" height="123" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1583753844924" />
+    <state width="1807" height="123" key="GridCell.Tab.0.left" timestamp="1583753844924">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="226" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1583752149091" />
-    <state width="1807" height="226" key="GridCell.Tab.0.right" timestamp="1583752149092">
+    <state width="1807" height="123" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1583753844924" />
+    <state width="1807" height="123" key="GridCell.Tab.0.right" timestamp="1583753844924">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="226" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1583752149092" />
+    <state width="1807" height="123" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1583753844924" />
     <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1583749894740">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1583749894740" />
-    <state x="302" y="153" width="1372" height="799" key="new project wizard" timestamp="1583400095512">
+    <state x="302" y="153" width="1372" height="799" key="new project wizard" timestamp="1583752447194">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="302" y="153" width="1372" height="799" key="new project wizard/67.27.1853.1053@67.27.1853.1053" timestamp="1583400095512" />
+    <state x="302" y="153" width="1372" height="799" key="new project wizard/67.27.1853.1053@67.27.1853.1053" timestamp="1583752447194" />
     <state x="656" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1583741664217">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>

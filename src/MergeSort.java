@@ -7,9 +7,7 @@ import java.util.List;
  *
  */
 public class MergeSort extends AbstractFloatSorter{
-    /**
-     * Constructor
-     */
+    /**Constructor*/
     public MergeSort(){
         this.description="Merge Sort";
         this.stable=true;
@@ -87,7 +85,11 @@ public class MergeSort extends AbstractFloatSorter{
 
     }
 
-
+    /**
+     * Sorts list using merge sort algorithm
+     * @param list - list to sort
+     * @return sorted list
+     */
     @Override
     public List<IElement> solve1(List<IElement> list) {
         mergesort(list,0,list.size()-1);
